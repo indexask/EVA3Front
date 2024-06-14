@@ -1,0 +1,87 @@
+img{
+    width: 250px;
+    height: 250px;
+}
+h1{
+    text-align: center;
+}
+.h5{ 
+    font-size: 35px !important;
+    color: white !important;
+    width: 600px;
+    height: 300px;
+    padding-top: 40PX;
+}
+td{
+    text-align: center;
+}
+body{
+    background-image: url(/img/backhround.webp);
+}
+.Navsize{
+    background-color: black !important;
+    margin-bottom: 0px;
+}
+.img-car{
+    height: 600px !important;
+    width: 100vw !important;
+    margin-bottom: 50px;
+}
+.logo{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+.seccion{
+    background-color: rgb(0, 0, 0) !important;
+}
+.carousel-inner{
+    width: 100% !important;
+}
+.h2tittle{
+    margin-bottom: 40px;
+    color: white;
+}
+
+
+.jaro-quienes{
+  font-family: "Jaro", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.flex-section{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.bebas-neue-regular {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.card-body{
+    background-image: url(../img/background23.jpg);
+    background-color: rgb(0, 0, 0) !important;
+}
+footer{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    margin-bottom: 0px;
+    height: 80px;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+
+}
+.foter{
+    margin-top: 100px;
+}
+.renderCard{
+    display: flex;
+}
